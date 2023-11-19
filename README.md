@@ -30,7 +30,7 @@ We consider that the operating coal power plants in the ERCOT system as of 2022,
 In total we simulate 12 scenarios including two baseline scenarios (1) ERCOT 2030 considering retrofitting without additional DCs (2) ERCOT 2030 without additional DC loads and retrofitting. Results of all scenarios can be found in the GitHub:
 https://github.com/yifueve/coal_repurpose/tree/main
 
-**Table 2 Summary of the simulated scenarios**
+**Table 2 Summary of the scenarios**
 |Scenarios of Data center and Energy storage technology |	TES|	LIB|	TES & LIB|
 | -- | -- | -- | -- |
 |Zero-carbon DC, inflexible|	(3)	|(5)	|(9)|
