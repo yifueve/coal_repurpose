@@ -31,18 +31,18 @@ https://github.com/yifueve/coal_repurpose/tree/main
 
 |Scenarios |	Result path|
 | -- | -- |
-|(1)	../ercot_baseline/Results_retro
-|(2)	../ercot_baseline/Results_baseline
-|(3)	../ercot_IF_ZC/Results_TES
-|(4)	../ercot_F_ZC/Results_TES
-|(5)	../ercot_IF_ZC/Results_LIB
-|(6)	../ercot_F_ZC/Results_LIB
-|(7)	../ercot_IF_UC/Results_LIB
-|(8)	../ercot_F_UC/Results_LIB
-|(9)	../ercot_IF_ZC/Results_FULL
-|(10)	../ercot_F_ZC/Results_FULL
-|(11)	../ercot_IF_UC/Results_FULL
-|(12)	../ercot_F_UC/Results_FULL
+|(1)	|../ercot_baseline/Results_retro|
+|(2)	|../ercot_baseline/Results_baseline|
+|(3)	|../ercot_IF_ZC/Results_TES|
+|(4)	|../ercot_F_ZC/Results_TES|
+|(5)	|../ercot_IF_ZC/Results_LIB|
+|(6)	|../ercot_F_ZC/Results_LIB|
+|(7)	|../ercot_IF_UC/Results_LIB|
+|(8)	|../ercot_F_UC/Results_LIB|
+|(9)	|../ercot_IF_ZC/Results_FULL|
+|(10)	|../ercot_F_ZC/Results_FULL|
+|(11)	|../ercot_IF_UC/Results_FULL|
+|(12)	|../ercot_F_UC/Results_FULL|
 
 
 
