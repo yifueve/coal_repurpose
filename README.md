@@ -24,7 +24,6 @@ We consider that the operating coal power plants in the ERCOT system as of 2022,
 |10	|Parish Generating Station|	614.6|	1982|	subcritical/ccs|	sub-bit|	29.48|	-95.63|	17,155|	9,610|
 |11	|San Miguel Electric Cooperative|	410|	1982|	subcritical|	lignite|	28.70|	-98.48|	11,748|	101,000|
 |12	|Sandy Creek Plant|	1008|	2013|	supercritical|	sub-bit|	31.48|	-96.96|	8,409|	96,100|
-</tr>
   
 |![ezcv logo](https://github.com/yifueve/coalrepurpose/blob/main/zone_level_total_coal_retro.png)|
 |:--:| 
