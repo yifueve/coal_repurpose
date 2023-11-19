@@ -48,6 +48,7 @@ https://github.com/yifueve/coal_repurpose/tree/main
 |:--:| 
 | *Scenario (1) No DCs considering retrofitting* |
 
+**Table 3 Result path**
 |Scenarios |	Result path|
 | -- | -- |
 |(1)	|../ercot_baseline/Results_retro|
