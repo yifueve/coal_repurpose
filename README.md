@@ -43,7 +43,7 @@ https://github.com/yifueve/coal_repurpose/tree/main
 | *Scenario (3) Zero-carbon DC, inflexible* |
 
 
-|![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)|
+|![ezcv logo](https://github.com/yifueve/coalrepurpose/blob/main/zone_level_renewable_retro.png)|
 |:--:| 
 | *Scenario (1) No DCs considering retrofitting* |
 
