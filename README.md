@@ -17,4 +17,31 @@
 |11	|San Miguel Electric Cooperative|	410|	1982|	subcritical|	lignite|	28.70|	-98.48|	11,748|	101,000|
 |12	|Sandy Creek Plant|	1008|	2013|	supercritical|	sub-bit|	31.48|	-96.96|	8,409|	96,100|
 
+2. Results from all the scenarios: In total we simulate 12 scenarios including two baseline scenario (1) ERCOT 2030 with additional DCs but without retrofitting option (2) ERCOT 2030 without additional DC loads and retrofitting. Results of all scenarios can be found in the GitHub:
+https://github.com/yifueve/coal_repurpose/tree/main
+
+
+|Scenarios of Data center and Energy storage technology |	TES|	LIB|	TES & LIB|
+| -- | -- | -- | -- |
+|Zero-carbon DC, inflexible|	 (3)	| (5)	| (9)|
+|Zero-carbon DC, flexible|	 (4)	| (6)	| (10) |
+|Unconstrained DC, inflexible|	Not applicable|	 (7)	| (11) |
+|Unconstrained DC, flexible|	Not applicable	| (8)	| (12) |
+
+
+Scenarios	Result path
+(1)	../ercot_baseline/Results_retro
+(2)	../ercot_baseline/Results_baseline
+(3)	../ercot_IF_ZC/Results_TES
+(4)	../ercot_F_ZC/Results_TES
+(5)	../ercot_IF_ZC/Results_LIB
+(6)	../ercot_F_ZC/Results_LIB
+(7)	../ercot_IF_UC/Results_LIB
+(8)	../ercot_F_UC/Results_LIB
+(9)	../ercot_IF_ZC/Results_FULL
+(10)	../ercot_F_ZC/Results_FULL
+(11)	../ercot_IF_UC/Results_FULL
+(12)	../ercot_F_UC/Results_FULL
+
+
 
