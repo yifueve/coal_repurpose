@@ -1,0 +1,97 @@
+Resource,Resource_type,Zone,Cluster,StartCap,RetCap,RetroCap,NewCap,EndCap,StartEnergyCap,RetEnergyCap,RetroEnergyCap,NewEnergyCap,EndEnergyCap,StartChargeCap,RetChargeCap,RetroChargeCap,NewChargeCap,EndChargeCap
+biomass,Biomass,1,1,69.0,0.0,0.0,0.0,69.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+conventional_steam_coal_1,Conventional Steam Coal,1,1,460.0,343.24688274387375,0.0,0.0,116.75311725612625,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+conventional_steam_coal_2,Conventional Steam Coal,1,2,566.0,421.61237993908367,0.0,0.0,144.38762006091628,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+conventional_steam_coal_3,Conventional Steam Coal,1,3,878.0,0.0,630.045791839788,0.0,247.95420816021206,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+conventional_steam_coal_4,Conventional Steam Coal,1,4,893.0,706.2327682090637,0.0,0.0,186.76723179093636,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+conventional_steam_coal_5,Conventional Steam Coal,1,5,957.0,775.488063684153,0.0,0.0,181.51193631584695,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+conventional_steam_coal_6,Conventional Steam Coal,1,6,174.6,174.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+conventional_steam_coal_7,Conventional Steam Coal,1,7,174.6,174.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+conventional_steam_coal_8,Conventional Steam Coal,1,8,916.8,0.0,121.10382082548915,0.0,795.6961791745107,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+conventional_steam_coal_9,Conventional Steam Coal,1,9,878.6,0.0,878.6000000000001,0.0,-1.1102230246251565e-13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+conventional_steam_coal_10,Conventional Steam Coal,1,10,614.6,160.2207764951576,454.3792235048425,0.0,-5.551115123125783e-14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+conventional_steam_coal_11,Conventional Steam Coal,1,11,410.0,410.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+conventional_steam_coal_12,Conventional Steam Coal,1,12,1008.0,0.0,0.0,0.0,1008.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combined_cycle,Natural Gas Fired Combined Cycle,1,1,780.0,0.0,0.0,0.0,780.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combined_cycle_1,Natural Gas Fired Combined Cycle,1,2,2121.0,0.0,0.0,0.0,2121.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combined_cycle_2,Natural Gas Fired Combined Cycle,1,3,4644.0,0.0,0.0,0.0,4644.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combined_cycle_3,Natural Gas Fired Combined Cycle,1,4,746.0,0.0,0.0,0.0,746.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combined_cycle_4,Natural Gas Fired Combined Cycle,1,5,704.0,0.0,0.0,0.0,704.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combined_cycle_5,Natural Gas Fired Combined Cycle,1,6,4029.0,0.0,0.0,0.0,4029.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combined_cycle_6,Natural Gas Fired Combined Cycle,1,7,1740.0,0.0,0.0,0.0,1740.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combined_cycle_7,Natural Gas Fired Combined Cycle,1,8,1031.0,0.0,0.0,0.0,1031.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combined_cycle_8,Natural Gas Fired Combined Cycle,1,9,8055.999999999999,0.0,0.0,0.0,8055.999999999999,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combined_cycle_9,Natural Gas Fired Combined Cycle,1,10,532.0,0.0,0.0,0.0,532.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combined_cycle_10,Natural Gas Fired Combined Cycle,1,11,237.0,0.0,0.0,0.0,237.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combined_cycle_11,Natural Gas Fired Combined Cycle,1,12,1188.0,0.0,0.0,0.0,1188.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combined_cycle_12,Natural Gas Fired Combined Cycle,1,13,1026.0,0.0,0.0,0.0,1026.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combined_cycle_13,Natural Gas Fired Combined Cycle,1,14,7481.0,0.0,0.0,0.0,7481.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combined_cycle_14,Natural Gas Fired Combined Cycle,1,15,824.0,0.0,0.0,0.0,824.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combustion_turbine,Natural Gas Fired Combustion Turbine,1,16,741.0,0.0,0.0,0.0,741.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combustion_turbine_1,Natural Gas Fired Combustion Turbine,1,17,1073.0,0.0,0.0,0.0,1073.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combustion_turbine_2,Natural Gas Fired Combustion Turbine,1,18,81.0,0.0,0.0,0.0,81.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combustion_turbine_3,Natural Gas Fired Combustion Turbine,1,19,180.0,0.0,0.0,0.0,180.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combustion_turbine_4,Natural Gas Fired Combustion Turbine,1,20,91.0,0.0,0.0,0.0,91.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combustion_turbine_5,Natural Gas Fired Combustion Turbine,1,21,13.0,0.0,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combustion_turbine_6,Natural Gas Fired Combustion Turbine,1,22,354.0,0.0,0.0,0.0,354.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combustion_turbine_7,Natural Gas Fired Combustion Turbine,1,23,557.0,0.0,0.0,0.0,557.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combustion_turbine_8,Natural Gas Fired Combustion Turbine,1,24,1539.0,0.0,0.0,0.0,1539.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combustion_turbine_9,Natural Gas Fired Combustion Turbine,1,25,846.0,0.0,0.0,0.0,846.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combustion_turbine_10,Natural Gas Fired Combustion Turbine,1,26,336.0,0.0,0.0,0.0,336.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combustion_turbine_11,Natural Gas Fired Combustion Turbine,1,27,208.0,0.0,0.0,0.0,208.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combustion_turbine_12,Natural Gas Fired Combustion Turbine,1,28,547.0,0.0,0.0,0.0,547.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combustion_turbine_13,Natural Gas Fired Combustion Turbine,1,29,41.0,0.0,0.0,0.0,41.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combustion_turbine_14,Natural Gas Fired Combustion Turbine,1,30,276.0,0.0,0.0,0.0,276.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_fired_combustion_turbine_15,Natural Gas Fired Combustion Turbine,1,31,84.0,0.0,0.0,0.0,84.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine,Natural Gas Steam Turbine,1,32,825.0,0.0,0.0,0.0,825.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine_1,Natural Gas Steam Turbine,1,33,521.0,0.0,0.0,0.0,521.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine_2,Natural Gas Steam Turbine,1,34,18.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine_3,Natural Gas Steam Turbine,1,35,1326.0,0.0,0.0,0.0,1326.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine_4,Natural Gas Steam Turbine,1,36,167.0,0.0,0.0,0.0,167.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine_5,Natural Gas Steam Turbine,1,37,171.0,0.0,0.0,0.0,171.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine_6,Natural Gas Steam Turbine,1,38,2160.0,0.0,0.0,0.0,2160.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine_7,Natural Gas Steam Turbine,1,39,1265.0,0.0,0.0,0.0,1265.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine_8,Natural Gas Steam Turbine,1,40,844.0,0.0,0.0,0.0,844.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine_9,Natural Gas Steam Turbine,1,41,421.0,0.0,0.0,0.0,421.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine_10,Natural Gas Steam Turbine,1,42,248.0,0.0,0.0,0.0,248.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine_11,Natural Gas Steam Turbine,1,43,392.0,0.0,0.0,0.0,392.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine_12,Natural Gas Steam Turbine,1,44,61.0,0.0,0.0,0.0,61.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine_13,Natural Gas Steam Turbine,1,45,1461.0,0.0,0.0,0.0,1461.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine_14,Natural Gas Steam Turbine,1,46,430.0,0.0,0.0,0.0,430.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine_15,Natural Gas Steam Turbine,1,47,169.0,0.0,0.0,0.0,169.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine_16,Natural Gas Steam Turbine,1,48,169.0,0.0,0.0,0.0,169.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+natural_gas_steam_turbine_17,Natural Gas Steam Turbine,1,49,122.0,0.0,0.0,0.0,122.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+nuclear,Nuclear,1,1,2520.0,0.0,0.0,0.0,2520.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+nuclear_1,Nuclear,1,2,2460.0,0.0,0.0,0.0,2460.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+onshore_wind_turbine,Onshore Wind Turbine,1,1,34061.0,0.0,0.0,0.0,34061.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+onshore_wind_turbine_exp,Onshore Wind Turbine,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+onshore_wind_turbine_ppa_1,Onshore Wind Turbine,1,2,0.0,0.0,0.0,2617.7067451789344,2617.7067451789344,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+onshore_wind_turbine_ppa_2,Onshore Wind Turbine,1,2,0.0,0.0,0.0,1311.7308139598927,1311.7308139598927,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+onshore_wind_turbine_ppa_3,Onshore Wind Turbine,1,2,0.0,0.0,0.0,2593.77534490407,2593.77534490407,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+small_hydroelectric,Small Hydroelectric,1,1,16.0,0.0,0.0,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+solar_photovoltaic,Solar Photovoltaic,1,1,9147.0,0.0,0.0,0.0,9147.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+solar_photovoltaic_exp,Solar Photovoltaic,1,2,0.0,0.0,0.0,6617.3089728515915,6617.3089728515915,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+solar_photovoltaic_ppa_1,Solar Photovoltaic,1,2,0.0,0.0,0.0,1135.6979701407997,1135.6979701407997,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+solar_photovoltaic_ppa_2,Solar Photovoltaic,1,2,0.0,0.0,0.0,2368.807705536245,2368.807705536245,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+solar_photovoltaic_ppa_3,Solar Photovoltaic,1,2,0.0,0.0,0.0,2963.1262126594934,2963.1262126594934,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Battery,Battery,1,1,726.0,0.0,0.0,0.0,726.0,2904.0,0.0,0.0,0.0,2904.0,0.0,0.0,0.0,0.0,0.0
+Battery_exp,Battery,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Battery_ppa_1,Battery,1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Battery_ppa_2,Battery,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Battery_ppa_3,Battery,1,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Flexible_demand_1,Flexible Demand,1,3,200.0,0.0,0.0,0.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Flexible_demand_2,Flexible Demand,1,3,200.0,0.0,0.0,0.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Flexible_demand_3,Flexible Demand,1,3,200.0,0.0,0.0,0.0,200.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coal_retrofit_1,Thermal_Storage,1,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coal_retrofit_2,Thermal_Storage,1,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coal_retrofit_3,Thermal_Storage,1,3,0.0,0.0,0.0,630.045791839788,630.045791839788,0.0,0.0,4165.221769526289,0.0,4165.221769526289,0.0,0.0,1532.7368224732334,0.0,1532.7368224732334
+Coal_retrofit_4,Thermal_Storage,1,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coal_retrofit_5,Thermal_Storage,1,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coal_retrofit_6,Thermal_Storage,1,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coal_retrofit_7,Thermal_Storage,1,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coal_retrofit_8,Thermal_Storage,1,8,0.0,0.0,0.0,121.10382082548914,121.10382082548914,0.0,0.0,364.58623953778834,0.0,364.58623953778834,0.0,0.0,130.20937126349583,0.0,130.20937126349583
+Coal_retrofit_9,Thermal_Storage,1,9,0.0,0.0,0.0,878.6000000000001,878.6000000000001,0.0,0.0,4598.602643929965,0.0,4598.602643929965,0.0,0.0,1905.0144528498442,0.0,1905.0144528498442
+Coal_retrofit_10,Thermal_Storage,1,10,0.0,0.0,0.0,454.3792235048425,454.3792235048425,0.0,0.0,3553.7238217273466,0.0,3553.7238217273466,0.0,0.0,1425.428525313344,0.0,1425.428525313344
+Coal_retrofit_11,Thermal_Storage,1,11,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Coal_retrofit_12,Thermal_Storage,1,12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Total,Total,n/a,n/a,110406.2,3166.000871071332,2084.12883617012,21692.282601401144,126848.3528941597,2904.0,0.0,12682.134474721388,0.0,15586.134474721388,0.0,0.0,4993.3891718999175,0.0,4993.3891718999175
