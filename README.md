@@ -23,7 +23,7 @@ We consider that the operating coal power plants in the ERCOT system as of 2022,
 
 
 ## Results from all the scenarios
-In total we simulate 12 scenarios including two baseline scenario (1) ERCOT 2030 considering retrofitting without additional DCs (2) ERCOT 2030 without additional DC loads and retrofitting. Results of all scenarios can be found in the GitHub:
+In total we simulate 12 scenarios including two baseline scenarios (1) ERCOT 2030 considering retrofitting without additional DCs (2) ERCOT 2030 without additional DC loads and retrofitting. Results of all scenarios can be found in the GitHub:
 https://github.com/yifueve/coal_repurpose/tree/main
 
 
@@ -42,7 +42,7 @@ https://github.com/yifueve/coal_repurpose/tree/main
 
 |![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)|
 |:--:| 
-| *Space* |
+| *Scenario (1) ERCOT 2030 considering retrofitting without additional DCs* |
 
 |Scenarios |	Result path|
 | -- | -- |
