@@ -5,10 +5,6 @@
 ## Coal Power Plants Information 
 We consider that the operating coal power plants in the ERCOT system as of 2022, except for those scheduled to be retired by 2025, are eligible for retrofitting. Table I shows the information on 12 eligible coal power plants from global energy monitors [1] and US EIA [2]. 
 
-|![ezcv logo](https://github.com/yifueve/coalrepurpose/blob/main/zone_level_total_coal_retro.png)|
-|:--:| 
-| *Locations of 12 coal power plants* |
-
 |Plant|	Plant name|	Capacity (MW)|	Start year|	Combustion technology|	Coal type|	Lat|	Lon|	Heat rate (Btu/kWh)|	Emission factor (kg CO2 /TJ)|
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 |1	| Fayette Power Project|	460|	1988|	subcritical|	lignite|	29.92|	-96.75|	10,878|	101,000|
@@ -23,6 +19,10 @@ We consider that the operating coal power plants in the ERCOT system as of 2022,
 |10	|Parish Generating Station|	614.6|	1982|	subcritical/ccs|	sub-bit|	29.48|	-95.63|	17,155|	9,610|
 |11	|San Miguel Electric Cooperative|	410|	1982|	subcritical|	lignite|	28.70|	-98.48|	11,748|	101,000|
 |12	|Sandy Creek Plant|	1008|	2013|	supercritical|	sub-bit|	31.48|	-96.96|	8,409|	96,100|
+
+|![ezcv logo](https://github.com/yifueve/coalrepurpose/blob/main/zone_level_total_coal_retro.png)|
+|:--:| 
+| *Locations of 12 coal power plants* |
 
 
 
