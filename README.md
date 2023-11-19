@@ -42,7 +42,7 @@ https://github.com/yifueve/coal_repurpose/tree/main
 
 |![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)|
 |:--:| 
-| *Scenario (1) ERCOT 2030 considering retrofitting without additional DCs* |
+| *Scenario (1) No DCs considering retrofitting* |
 
 |Scenarios |	Result path|
 | -- | -- |
