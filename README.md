@@ -28,6 +28,8 @@ https://github.com/yifueve/coal_repurpose/tree/main
 |Unconstrained DC, inflexible|	Not applicable|(7)	|(11) |
 |Unconstrained DC, flexible|	Not applicable	|(8)	|(12) |
 
+![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)
+
 
 |Scenarios |	Result path|
 | -- | -- |
