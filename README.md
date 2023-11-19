@@ -1,5 +1,7 @@
 # Supplement material for paper “Repurposing Coal Power Plants into Thermal Energy Storage for Supporting Zero-carbon Data Centers”
 
+
+
 1. Coal Power Plants Information: We consider that the operating coal power plants in the ERCOT system as of 2022, except for those scheduled to be retired by 2025, are eligible for retrofitting. Table I shows the information on 12 eligible coal power plants from global energy monitors [1] and US EIA [2]. 
 
 |Plant|	Plant name|	Capacity (MW)|	Start year|	Combustion technology|	Coal type|	Lat|	Lon|	Heat rate (Btu/kWh)|	Emission factor (kg CO2 /TJ)|
@@ -16,6 +18,8 @@
 |10	|Parish Generating Station|	614.6|	1982|	subcritical/ccs|	sub-bit|	29.48|	-95.63|	17,155|	9,610|
 |11	|San Miguel Electric Cooperative|	410|	1982|	subcritical|	lignite|	28.70|	-98.48|	11,748|	101,000|
 |12	|Sandy Creek Plant|	1008|	2013|	supercritical|	sub-bit|	31.48|	-96.96|	8,409|	96,100|
+
+
 
 2. Results from all the scenarios: In total we simulate 12 scenarios including two baseline scenario (1) ERCOT 2030 with additional DCs but without retrofitting option (2) ERCOT 2030 without additional DC loads and retrofitting. Results of all scenarios can be found in the GitHub:
 https://github.com/yifueve/coal_repurpose/tree/main
