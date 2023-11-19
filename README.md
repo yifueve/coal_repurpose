@@ -37,7 +37,7 @@ https://github.com/yifueve/coal_repurpose/tree/main
 
 |![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)|
 |:--:| 
-| *Scenario (3) Zero-carbon DC, inflexible * |
+| *Scenario (3) Zero-carbon DC, inflexible* |
 
 
 |![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)|
