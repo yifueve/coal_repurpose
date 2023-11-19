@@ -39,6 +39,11 @@ https://github.com/yifueve/coal_repurpose/tree/main
 |:--:| 
 | *Space* |
 
+
+|![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)|
+|:--:| 
+| *Space* |
+
 |Scenarios |	Result path|
 | -- | -- |
 |(1)	|../ercot_baseline/Results_retro|
