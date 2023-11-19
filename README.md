@@ -56,3 +56,8 @@ https://github.com/yifueve/coal_repurpose/tree/main
 
 
 ## Reference
+
+[1] GlobalEnergyMonitor,“GlobalCoalPlantTracker,”GlobalCoalPlantTracker.Accessed:Feb.28,2023. [Online]. Available: hEps://globalenergymonitor.org/projects/global-coal-plant-tracker/
+[2] US Energy Informa-on Administra-on, “Coal-fired electric power plants.” Accessed: Sep. 10, 2023. [Online]. Available: hEps://www.eia.gov/coal/data.php#prices
+[3] EIA,“CapitalCostandPerformanceCharacteris-cEs-matesforU-lityScaleElectricPowerGenera-ng Technologies.” Accessed: Apr. 21, 2023. [Online]. Available: hEps://www.eia.gov/analysis/studies/powerplants/capitalcost/pdf/capital_cost_AEO2020.pdf
+[4] “GenX.”Accessed:May24,2023.[Online].Available:genxproject.github.io/GenX/dev/
