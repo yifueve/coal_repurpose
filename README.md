@@ -7,7 +7,7 @@
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-Plant	Plant name	Capacity (MW)	Start year	Combustion technology	Coal type	Lat	Lon	Heat rate (Btu/kWh)	Emission factor (kg CO2 /TJ)
+|Plant|	Plant name|	Capacity (MW)|	Start year|	Combustion technology|	Coal type|	Lat|	Lon|	Heat rate (Btu/kWh)|	Emission factor (kg CO2 /TJ)|
 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 1	Fayette Power Project	460	1988	subcritical	lignite	29.92	-96.75	10,878	101,000
 2	J. K. Spruce Station	566	1992	subcritical	sub-bit	29.31	-98.32	10,878	96,100
