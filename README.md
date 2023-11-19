@@ -23,10 +23,10 @@ https://github.com/yifueve/coal_repurpose/tree/main
 
 |Scenarios of Data center and Energy storage technology |	TES|	LIB|	TES & LIB|
 | -- | -- | -- | -- |
-|Zero-carbon DC, inflexible|	 (3)	| (5)	| (9)|
-|Zero-carbon DC, flexible|	 (4)	| (6)	| (10) |
-|Unconstrained DC, inflexible|	Not applicable|	 (7)	| (11) |
-|Unconstrained DC, flexible|	Not applicable	| (8)	| (12) |
+|Zero-carbon DC, inflexible|	(3)	|(5)	| (9)|
+|Zero-carbon DC, flexible|	(4)	|(6)	|(10) |
+|Unconstrained DC, inflexible|	Not applicable|	 (7)	|(11) |
+|Unconstrained DC, flexible|	Not applicable	|(8)	|(12) |
 
 
 |Scenarios |	Result path|
